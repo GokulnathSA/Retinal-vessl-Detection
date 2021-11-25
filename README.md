@@ -6,4 +6,5 @@
 - Angiography is used for retinal vessel detection.
 - Dies used are toxic to the body.
 - Segment the blood vessels for a given image of rear part of eyes.
+ 
 
